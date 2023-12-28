@@ -43,7 +43,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -155,7 +155,7 @@
       <workItem from="1703570968617" duration="3203000" />
       <workItem from="1703588219036" duration="477000" />
       <workItem from="1703588932374" duration="254000" />
-      <workItem from="1703635507908" duration="24251000" />
+      <workItem from="1703635507908" duration="29750000" />
     </task>
     <servers />
   </component>

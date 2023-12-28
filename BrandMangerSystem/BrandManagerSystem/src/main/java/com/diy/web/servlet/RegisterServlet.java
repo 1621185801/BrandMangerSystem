@@ -23,7 +23,7 @@ public class RegisterServlet extends HttpServlet {
         String password = request.getParameter("password");
 
         User user = new User();
-        user.setUsername(username); 
+        user.setUsername(username);
         user.setPassword(password);
 
         // 获取用户输入的验证码
